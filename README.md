@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kun</h1>
+<h3 align="center">My real name is Nakornchai Tachakunnakornpeeda, This is my Github profile.</h3>
 
-<!--
-**Kunpacito/Kunpacito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying at [KOSEN-KMITL](http://www.kosen.kmitl.ac.th)
 
-Here are some ideas to get you started:
+- 🌱 My hobbies are **playing instrument, play football**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **67991038@kmitl.ac.th**
+
+- ⚡ Fun fact **My nickname is Kun not Juab**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
