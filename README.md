@@ -1,28 +1,62 @@
-<h1 align="center">Hi 👋, I'm Kun</h1>
-<h3 align="center">My real name is Nakornchai Tachakunnakornpeeda, This is my Github profile.</h3>
+<!-- Modern GitHub Profile README for Kun -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunpacito&label=Profile%20views&color=0e75b6&style=flat" alt="kunpacito" /> </p>
+<h1 align="center">Hey there 👋, I'm Kun</h1>
+<h3 align="center">💻 Student @ <a href="http://www.kosen.kmitl.ac.th" target="_blank">KOSEN-KMITL</a> | 🎸 Music & ⚽ Football Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunpacito" alt="kunpacito" /></a> </p>
+---
 
-- 🔭 I’m currently studying at [KOSEN-KMITL](http://www.kosen.kmitl.ac.th)
-
-- 🌱 My hobbies are **playing instrument, play football**
-
-- 📫 How to reach me **67991038@kmitl.ac.th**
-
-- ⚡ Fun fact **My nickname is Kun not Juab**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/nkorachai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nkorachai" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kunpacito&label=Profile%20Views&color=00bfbf&style=flat-square" alt="profile views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kunpacito&theme=onedark&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="trophies" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunpacito&show_icons=true&locale=en&layout=compact" alt="kunpacito" /></p>
+### 🧑‍🎓 About Me
+- 🔭 I’m currently studying at **[KOSEN-KMITL](http://www.kosen.kmitl.ac.th)**
+- 🌱 My hobbies are **playing instruments** and **playing football**
+- 📫 Reach me at **67991038@kmitl.ac.th**
+- ⚡ Fun fact: **My nickname is Kun, not Juab 😄**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunpacito&show_icons=true&locale=en" alt="kunpacito" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunpacito&" alt="kunpacito" /></p>
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://instagram.com/nkorachai" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" />
+  </a>
+  <a href="mailto:67991038@kmitl.ac.th">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunpacito&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunpacito&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunpacito&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/kunpacito/kunpacito/blob/main/assets/wave.gif" width="60%" alt="Thanks for visiting!" />
+</p>
+
+---
+
+⭐️ *Thanks for stopping by! Have a great day!* ☀️
