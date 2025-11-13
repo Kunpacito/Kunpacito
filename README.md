@@ -1,7 +1,7 @@
 <!-- Modern GitHub Profile README for Kun -->
 
 <h1 align="center">Hey there 👋, I'm Kun</h1>
-<h3 align="center">💻 Student @ <a href="http://www.kosen.kmitl.ac.th" target="_blank">KOSEN-KMITL</a> | 🎸 Music & ⚽ Football Enthusiast</h3>
+<h3 align="center">💻 Student @ <a href="http://www.kosen.kmitl.ac.th" target="_blank">KOSEN-KMITL</a> | 🎸 Music & ⚽ Football 人</h3>
 
 ---
 
