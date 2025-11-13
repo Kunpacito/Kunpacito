@@ -58,5 +58,3 @@
 </p>
 
 ---
-
-⭐️ *Thanks for stopping by! Have a great day!* ☀️
