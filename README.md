@@ -1,6 +1,7 @@
 <!-- Modern GitHub Profile README for Kun -->
 
 <h1 align="center">Hey there 👋, I'm Kun</h1>
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/tenor_1.gif">
 <h3 align="center">💻 Student @ <a href="http://www.kosen.kmitl.ac.th" target="_blank">KOSEN-KMITL</a> | 🎸 Music & ⚽ Football 人</h3>
 
 ---
@@ -45,7 +46,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kunpacito&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunpacito&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/tenor_1.gif">
 </p>
 
 
