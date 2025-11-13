@@ -3,7 +3,7 @@
 <h1 align="center">Hey there 👋, I'm Kun</h1>
 <h3 align="center">💻 Student @ <a href="http://www.kosen.kmitl.ac.th" target="_blank">KOSEN-KMITL</a> | 人</h3>
 <p align="center">
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/tenor_1.gif" />
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/tenor_1.gif" width="48%" />
 </p>
 
 ---
