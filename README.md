@@ -15,7 +15,7 @@
 ---
 
 ### 🧑‍🎓 About Me
-- 🔭 I’m currently studying at **[KOSEN-KMITL](http://www.kosen.kmitl.ac.th)**
+- 🔭 I’m currently studying at **[Computer Engineering](http://www.kosen.kmitl.ac.th/th/curriculums/diploma-of-engineering-in-computer-engineering)** field.
 - 🌱 My hobbies are **playing instruments** and **playing football**
 - 📫 Reach me at **67991038@kmitl.ac.th**
 - ⚡ Fun fact: **My nickname is Kun, not Juab 😄**
