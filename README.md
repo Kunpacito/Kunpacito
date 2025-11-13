@@ -1,9 +1,8 @@
 <!-- Modern GitHub Profile README for Kun -->
 
 <h1 align="center">Hey there 👋, I'm Kun</h1>
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/tenor_1.gif">
 <h3 align="center">💻 Student @ <a href="http://www.kosen.kmitl.ac.th" target="_blank">KOSEN-KMITL</a> | 🎸 Music & ⚽ Football 人</h3>
-
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/tenor_1.gif" align="center">
 ---
 
 <p align="center">
