@@ -47,14 +47,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunpacito&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunpacito&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p>
 
----
-
-<p align="center">
-  <img src="https://github.com/kunpacito/kunpacito/blob/main/assets/wave.gif" width="60%" alt="Thanks for visiting!" />
-</p>
 
 ---
