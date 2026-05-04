@@ -19,12 +19,13 @@
 
 ### 🧑‍🎓 About Me
 - 💻 My realname is **Nakornchai Tachakunnakornpeeda**
-- 🔭 I’m currently studying in **[Computer Engineering](http://www.kosen.kmitl.ac.th/th/curriculums/diploma-of-engineering-in-computer-engineering)** field.
+- 🔭 Education :  **[KOSEN-KMITL Computer Engineering](http://www.kosen.kmitl.ac.th/th/curriculums/diploma-of-engineering-in-computer-engineering)** field [2024-2025].
+-                  **[高知工業高等専門学校　(Kochi college, Japan) Information Security](https://www.kochi-ct.ac.jp/information_security)** field [2026-Present].
 - 🌱 My hobbies are **playing instruments** and **playing football**
-- 📫 Reach me at **67991038@kmitl.ac.th**
-- ⚡ Fun fact: **My nickname is Kun, not Juab 😄**
+- 📫 Reach me at **67991038@kmitl.ac.th** or **kunnakornchai@gmail.com**
+- ⚡ Want to get in **Cybersecurity** field
 
----
+
 
 ### 🌐 Connect with Me
 <p align="left">
