@@ -17,12 +17,51 @@
 
 ---
 
-### 🧑‍🎓 About Me
-- 💻 My realname is **Nakornchai Tachakunnakornpeeda**
-- 🔭 Education :  **[KOSEN-KMITL Computer Engineering](http://www.kosen.kmitl.ac.th/th/curriculums/diploma-of-engineering-in-computer-engineering)** field [2024-2025]. \n **[高知工業高等専門学校　(Kochi college, Japan) Information Security](https://www.kochi-ct.ac.jp/information_security)** field [2026-Present].
-- 🌱 My hobbies are **playing instruments** and **playing football**
-- 📫 Reach me at **67991038@kmitl.ac.th** or **kunnakornchai@gmail.com**
-- ⚡ Want to get in **Cybersecurity** field
+# 🛡️ Nakornchai Tachakunnakornpeeda (Nakornchai)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Kochi%2C%20Japan-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
+
+### 👨‍💻 About Me
+I am a passionate Computer Engineering student currently specializing in **Information Security** in Japan. My goal is to dive deep into the world of **Cybersecurity** and build robust, secure systems.
+
+---
+
+### 🎓 Education
+| Period | Institution | Field of Study |
+| :--- | :--- | :--- |
+| **2026 - Present** | 🇯🇵 **Kochi College (KOSEN)** | [Information Security](https://www.kochi-ct.ac.jp/information_security) |
+| **2024 - 2025** | 🇹🇭 **KOSEN-KMITL** | [Computer Engineering](http://www.kosen.kmitl.ac.th/th/curriculums/diploma-of-engineering-in-computer-engineering) |
+
+---
+
+### 🎯 Career Goals
+- ⚡ Focus: **Cybersecurity & Network Defense**
+- 🔭 Currently learning: Information Security protocols and advanced Japanese.
+- 🚀 Aiming to contribute to the global security community.
+
+---
+
+###  📫 Reach Me
+Feel free to contact me for collaboration or technical discussions:
+
+*   📧 **Academic:** [kun@gm.kochi-ct.jp](mailto:kun@gm.kochi-ct.jp) or [67991038@kmitl.ac.th](mailto:67991038@kmitl.ac.th)
+*   📧 **Personal:** [kunnakornchai@gmail.com](mailto:kunnakornchai@gmail.com)
+
+---
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Japanese](https://img.shields.io/badge/Japanese-N2-orange?style=flat)
+
+---
+<p align="center">
+  <i>"Securing the future, one packet at a time."</i>
+</p>
 
 
 
@@ -36,12 +75,6 @@
   </a>
 </p>
 
----
-
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,github,vscode" />
-</p>
 
 ---
 
