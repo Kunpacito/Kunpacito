@@ -28,10 +28,10 @@
 
 ---
 
-## 🎯 About Me
-An **Information Security student** currently studying as an exchange student at **KOSEN in Japan**, driven by a deep commitment to protecting systems, data, and people. Trilingual in **Thai, English, and Japanese**, I bring a unique cross-cultural perspective combined with strong technical analytical skills.
+<!--## 🎯 About Me
+An **Information Security student** currently studying as an exchange student at **KOSEN in Japan**, driven by a deep commitment to protecting systems, data, and people. Trilingual in **Thai, English, and Japanese**, I bring a unique cross-cultural perspective combined with strong technical analytical skills.-->
 
----
+
 
 ## 🔑 Core Strengths & Values
 
@@ -49,20 +49,31 @@ An **Information Security student** currently studying as an exchange student at
 ## 🚀 Goal
 My goal is to leverage my technical foundation, cross-cultural background, and analytical problem-solving mindset to contribute directly to an organization's overall cybersecurity goals and build reliable, low-risk solutions.
 
+<!--### 🎯 Career Goals
+- ⚡ Focus: **Cybersecurity & Network Defense**
+- 🔭 Currently learning: Information Security protocols and advanced Japanese.
+- 🚀 Aiming to contribute to the global security community.-->
+
 ---
+
+### 🛠️ Key Capabilities & Hands-on Experience
+
+* 🌐 **DNS Operations:** Hands-on experience in installing, configuring, and operating DNS servers (**BIND**, **NSD**).
+* 🔥 **Network Security:** Skilled in configuring and operating firewalls for secure network management.
+* 🔑 **System Access:** Proficient in configuring and managing **SSH** for secure remote server administration.
+* 🎯 **Cybersecurity & Threat Analysis:** Strong understanding of common web vulnerabilities (**SQLi**, **OS Command Injection**, **XSS**, **Directory Traversal**).
+* 🖥️ **Web Infrastructure:** Solid grasp of web server concepts and deployment fundamentals.
+* 🗄️ **Database Management:** Able to design, construct, and query databases effectively.
+
+
+---
+
 
 ### 🎓 Education
 | Period | Institution | Field of Study |
 | :--- | :--- | :--- |
 | **2026 - Present** | 🇯🇵 **Kochi College (KOSEN)** | [Information Security](https://www.kochi-ct.ac.jp/information_security) |
 | **2024 - 2025** | 🇹🇭 **KOSEN-KMITL** | [Computer Engineering](http://www.kosen.kmitl.ac.th/th/curriculums/diploma-of-engineering-in-computer-engineering) |
-
----
-
-### 🎯 Career Goals
-- ⚡ Focus: **Cybersecurity & Network Defense**
-- 🔭 Currently learning: Information Security protocols and advanced Japanese.
-- 🚀 Aiming to contribute to the global security community.
 
 ---
 
@@ -78,7 +89,10 @@ Feel free to contact me for collaboration or technical discussions:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00599C?style=flat&logo=nmap&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Japanese](https://img.shields.io/badge/Japanese-N2-orange?style=flat)
 
 ---
@@ -90,9 +104,9 @@ Feel free to contact me for collaboration or technical discussions:
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://instagram.com/nkorachai" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" />
-  </a>
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/nakornchai-tachakunnakornpreeda-b1bb9b40a/?isSelfProfile=true)" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
+</a>
   <a href="mailto:67991038@kmitl.ac.th">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" />
   </a>
