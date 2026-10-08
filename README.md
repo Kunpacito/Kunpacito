@@ -1,24 +1,20 @@
 <!-- Modern GitHub Profile README for Kun -->
 
 
-<h1 align="center">Hey there 👋, I'm Kun</h1>
+<!--<h1 align="center">Hey there 👋, I'm Kun</h1>
 <h3 align="center">💻 Student </h3>
 <p align="center">
   <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/tenor_1.gif" width="68%" />
 </p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kunpacito&label=Profile%20Views&color=00bfbf&style=flat-square" alt="profile views" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=kunpacito&theme=onedark&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="trophies" />
   </a>
-</p>
+</p>-->
 
----
 
-# 🛡️ Nakornchai Tachakunnakornpeeda (KUN)
+# $whoami : Nakornchai Tachakunnakornpeeda (KUN)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=fortinet&logoColor=white" />
