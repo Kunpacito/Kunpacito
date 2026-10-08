@@ -1,5 +1,6 @@
 <!-- Modern GitHub Profile README for Kun -->
 
+
 <h1 align="center">Hey there 👋, I'm Kun</h1>
 <h3 align="center">💻 Student </h3>
 <p align="center">
@@ -24,8 +25,33 @@
   <img src="https://img.shields.io/badge/Location-Kochi%2C%20Japan-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
-### 👨‍💻 About Me
-I am a passionate Computer Engineering student currently specializing in **Information Security** in Japan. My goal is to dive deep into the world of **Cybersecurity** and build robust, secure systems.
+# 🛡️ Professional Statement
+
+> **Aspiring Cybersecurity Specialist & Information Security Student**  
+> *I am an Information Security student currently studying as an exchange student at KOSEN in Japan, driven by a deep commitment to protecting systems, data, and people. Trilingual in Thai, English, and Japanese, I bring a unique cross-cultural perspective combined with strong technical analytical skills. My strengths lie in structured problem-solving, calm decision-making under pressure, and maintaining high accountability in project execution. I am passionate about system defense and mitigating cyber risks, and I look forward to applying my education and problem-solving mindset to contribute to an organization's overall cybersecurity goals.*
+
+---
+
+## 🎯 About Me
+An **Information Security student** currently studying as an exchange student at **KOSEN in Japan**, driven by a deep commitment to protecting systems, data, and people. Trilingual in **Thai, English, and Japanese**, I bring a unique cross-cultural perspective combined with strong technical analytical skills.
+
+---
+
+## 🔑 Core Strengths & Values
+
+### 💡 Core Strengths
+* **Structured Problem-Solving:** Calm decision-making and systematic troubleshooting under high-pressure environments.
+* **Multilingual & Cross-Cultural Communication:** Fluent in Thai, English, and Japanese, enabling seamless international team collaboration.
+* **Strategic Leadership & Accountability:** High sense of ownership in project execution, ensuring bug-free outcomes and meeting strict deadlines.
+
+### 🛡️ Core Values
+* **Protecting Organizations & People:** Committed to securing systems and data to foster trust and safety.
+* **High Reliability & Integrity:** Prioritizing risk mitigation, high-quality deliverables, and mutual respect in all collaborations.
+
+---
+
+## 🚀 Goal
+My goal is to leverage my technical foundation, cross-cultural background, and analytical problem-solving mindset to contribute directly to an organization's overall cybersecurity goals and build reliable, low-risk solutions.
 
 ---
 
