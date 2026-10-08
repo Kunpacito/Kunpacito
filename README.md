@@ -46,6 +46,20 @@ An **Information Security student** currently studying as an exchange student at
 
 ---
 
+
+## 🛠️ Key Capabilities & Hands-on Experience
+
+* 🌐 **DNS Operations:** Hands-on experience in installing, configuring, and operating DNS servers (**BIND**, **NSD**).
+* 🔥 **Network Security:** Skilled in configuring and operating firewalls for secure network management.
+* 🔑 **System Access:** Proficient in configuring and managing **SSH** for secure remote server administration.
+* 🎯 **Cybersecurity & Threat Analysis:** Strong understanding of common web vulnerabilities (**SQLi**, **OS Command Injection**, **XSS**, **Directory Traversal**).
+* 🖥️ **Web Infrastructure:** Solid grasp of web server concepts and deployment fundamentals.
+* 🗄️ **Database Management:** Able to design, construct, and query databases effectively.
+
+
+---
+
+
 ## 🚀 Goal
 My goal is to leverage my technical foundation, cross-cultural background, and analytical problem-solving mindset to contribute directly to an organization's overall cybersecurity goals and build reliable, low-risk solutions.
 
@@ -55,16 +69,15 @@ My goal is to leverage my technical foundation, cross-cultural background, and a
 - 🚀 Aiming to contribute to the global security community.-->
 
 ---
-
-### 🛠️ Key Capabilities & Hands-on Experience
-
-* 🌐 **DNS Operations:** Hands-on experience in installing, configuring, and operating DNS servers (**BIND**, **NSD**).
-* 🔥 **Network Security:** Skilled in configuring and operating firewalls for secure network management.
-* 🔑 **System Access:** Proficient in configuring and managing **SSH** for secure remote server administration.
-* 🎯 **Cybersecurity & Threat Analysis:** Strong understanding of common web vulnerabilities (**SQLi**, **OS Command Injection**, **XSS**, **Directory Traversal**).
-* 🖥️ **Web Infrastructure:** Solid grasp of web server concepts and deployment fundamentals.
-* 🗄️ **Database Management:** Able to design, construct, and query databases effectively.
-
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00599C?style=flat&logo=nmap&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Japanese](https://img.shields.io/badge/Japanese-N2-orange?style=flat)
 
 ---
 
@@ -85,17 +98,6 @@ Feel free to contact me for collaboration or technical discussions:
 
 ---
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00599C?style=flat&logo=nmap&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Japanese](https://img.shields.io/badge/Japanese-N2-orange?style=flat)
-
----
 <p align="center">
   <i>"Securing the future, one packet at a time."</i>
 </p>
