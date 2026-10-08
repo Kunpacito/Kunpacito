@@ -55,7 +55,7 @@ Feel free to contact me for collaboration or technical discussions:
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![SQL](https://www.cleanpng.com/png-blue-sql-database-icon-with-green-top-4ckjvr/)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Japanese](https://img.shields.io/badge/Japanese-N2-orange?style=flat)
 
